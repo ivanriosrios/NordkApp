@@ -1,0 +1,7 @@
+{
+  "name": "NordkApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
